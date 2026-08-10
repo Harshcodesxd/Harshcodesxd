@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harshit Thakral
+# Hi 👋, I'm Harshit
 
 ### 💻 Aspiring Full-Stack Developer | 🤖 AI Enthusiast | 🚀 Builder
 
