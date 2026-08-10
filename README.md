@@ -1,61 +1,73 @@
-# Hi 👋, I'm Harshit
+# Hi 👋, I'm Harshit Thakral
 
-### 💻 Aspiring Full-Stack Developer | 🤖 AI Enthusiast | 🚀 Builder
+### 💻 Full-Stack Developer in Progress · 🤖 AI Enthusiast · 🚀 Builder
 
-I'm a student passionate about technology, web development, and artificial intelligence.
+I'm a student passionate about **web development, AI, and building useful products**.
 
-I'm currently focused on learning full-stack development, building real-world projects, and improving my problem-solving skills by turning ideas into working applications.
+I'm currently learning full-stack development and improving my skills by turning ideas into real projects.
 
 > **Learn → Build → Break → Fix → Repeat.**
 
 ---
 
-## 🚀 What I'm Currently Doing
+## 🚀 About Me
 
-- 🌱 Learning **Full-Stack Web Development**
-- ⚛️ Exploring **React & modern frontend development**
-- 🖥️ Learning **Node.js, Express & backend development**
-- 🗄️ Working with **databases and APIs**
-- 🐍 Learning **Python**
-- 🤖 Exploring **AI/ML and local AI**
-- 🛠️ Building projects to improve my practical skills
-- 📚 Continuously improving my programming fundamentals
+- 🌱 Currently learning **Full-Stack Web Development**
+- ⚡ Focused on **JavaScript, React, Node.js & Databases**
+- 🤖 Exploring **AI, Python & local AI**
+- 🛠️ Learning by building real-world projects
+- 🎯 Working toward becoming a strong **Full-Stack Developer**
+- 💡 Interested in building useful products from scratch
 
 ---
 
 ## 🧠 Tech Stack
 
-### Frontend
+### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
 </p>
 
-### Backend
+### Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,nextjs,tailwind" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
+  <img src="https://skillicons.dev/icons?i=vscode,npm,vercel" />
 </p>
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 Featured Projects
 
-### 🚧 Personal Portfolio
+> I'm currently building my project portfolio. More projects will be added here as I complete them.
 
-Building a modern personal portfolio to showcase my projects, skills, and development journey.
+### 🧮 Maths Quiz Generator
+
+An interactive web application designed to help students practice mathematics through generated quizzes.
+
+**Focus:**
+- Question generation
+- Difficulty levels
+- Score tracking
+- Responsive UI
+- Simple and clean user experience
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** Coming Soon  
+🌐 **Live Demo:** Coming Soon
+
+---
+
+### 🌐 Personal Portfolio
+
+A personal portfolio website to showcase my projects, skills, and development journey.
 
 **Focus:**
 - Responsive design
@@ -63,58 +75,45 @@ Building a modern personal portfolio to showcase my projects, skills, and develo
 - Smooth animations
 - Project showcase
 - Performance
-- Clean code
 
----
+**Tech:** `HTML` `CSS` `JavaScript`
 
-## 💡 Projects
-
-### 🧮 Maths Quiz Generator
-
-A web application designed to generate interactive mathematics questions and help students practice.
-
-**Technologies:**  
-`HTML` `CSS` `JavaScript`
-
-🔗 [View Project](#)
+🔗 **Repository:** Coming Soon  
+🌐 **Live Demo:** Coming Soon
 
 ---
 
 ### 🤖 AI Explainer
 
-An idea I'm exploring: an AI-powered learning platform that explains difficult concepts in simple language.
+An experimental project focused on making difficult topics easier to understand using AI.
 
-**Planned technologies:**  
-`React` `Node.js` `Python` `AI`
+**Planned features:**
+- Simple explanations
+- Interactive learning
+- Topic-based assistance
+- Beginner-friendly responses
 
-🔗 [View Project](#)
+**Planned Tech:** `React` `Node.js` `Python` `AI`
 
----
-
-### 🌐 More Projects
-
-I'm continuously building and experimenting with new ideas.
-
-👉 **Check out my repositories:**  
-[GitHub Repositories](https://github.com/yourusername?tab=repositories)
+🚧 **Currently in development**
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learning Roadmap
 
 ```text
-HTML & CSS
-    ↓
+HTML + CSS
+     ↓
 JavaScript
-    ↓
+     ↓
 React
-    ↓
+     ↓
 Node.js + Express
-    ↓
+     ↓
 Databases
-    ↓
-Full-Stack Applications
-    ↓
+     ↓
+Full-Stack Development
+     ↓
 Python
-    ↓
+     ↓
 AI / ML
