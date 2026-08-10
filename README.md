@@ -1,7 +1,5 @@
-# Hi 👋, I'm Harshit Thakral
-
-### 💻 Full-Stack Developer in Progress · 🤖 AI Enthusiast · 🚀 Builder
-
+<h1 align="center">Hi 👋, I'm Harshit Thakral</h1>
+<h3 align="center">💻 Full-Stack Developer in Progress · 🤖 AI Enthusiast · 🚀 Builder</h3>
 I'm a student passionate about **web development, AI, and building useful products**.
 
 I'm currently learning full-stack development and improving my skills by turning ideas into real projects.
