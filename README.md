@@ -1,50 +1,117 @@
-# Hi, I'm Harshit Thakral 👋
+<h1 align="center">Hi 👋, I'm Harshit Thakral</h1>
+<h3 align="center">💻 Full-Stack Developer in Progress · 🤖 AI Enthusiast · 🚀 Builder</h3>
+I'm a student passionate about **web development, AI, and building useful products**.
 
-I'm a student and frontend developer in progress from India. I build responsive websites and strengthen my fundamentals through hands-on projects.
+I'm currently learning full-stack development and improving my skills by turning ideas into real projects.
 
-- 🔭 Currently building and improving frontend projects
-- 🌱 Comfortable with **HTML, CSS, and Tailwind CSS**
-- 🧰 Using **Git and GitHub** to track and share my work
-- 📚 Next focus: JavaScript and stronger responsive design
-- 🎯 Goal: turn practice projects into polished, useful products
+> **Learn → Build → Break → Fix → Repeat.**
 
-## Skills
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github" alt="HTML, CSS, Tailwind CSS, Git, and GitHub" />
+## 🚀 About Me
+
+- 🌱 Currently learning **Full-Stack Web Development**
+- ⚡ Focused on **JavaScript, React, Node.js & Databases**
+- 🤖 Exploring **AI, Python & local AI**
+- 🛠️ Learning by building real-world projects
+- 🎯 Working toward becoming a strong **Full-Stack Developer**
+- 💡 Interested in building useful products from scratch
+
+---
+
+## 🧠 Tech Stack
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
 </p>
 
-## Projects
+### Exploring
 
-### Personal Portfolio
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nextjs,tailwind" />
+</p>
 
-A responsive personal portfolio styled with Tailwind CSS to showcase my work, skills, and learning journey.
+### Tools
 
-- [Live Demo](https://harshportfolio-jet.vercel.app/)
-- [Source Code](https://github.com/Harshcodesxd/portfolio)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,npm,vercel" />
+</p>
 
-### NexusCo
+---
 
-A multi-page e-commerce practice website built with HTML and CSS.
+## 🚀 Featured Projects
 
-- Product cards and product-listing layouts
-- Hero, navigation, and call-to-action sections
-- Contact form and reusable page sections
-- Responsive layout currently being improved
+> I'm currently building my project portfolio. More projects will be added here as I complete them.
 
-## What I'm Working On
+### 🧮 Maths Quiz Generator
 
-- Improving responsive design and accessibility
-- Writing cleaner and more reusable CSS
-- Building layouts faster with Tailwind CSS
-- Practising meaningful Git commits
-- Preparing to add interactivity with JavaScript
+An interactive web application designed to help students practice mathematics through generated quizzes.
 
-## My Learning Approach
+**Focus:**
+- Question generation
+- Difficulty levels
+- Score tracking
+- Responsive UI
+- Simple and clean user experience
 
-> Learn → Build → Test → Improve → Repeat.
+**Tech:** `HTML` `CSS` `JavaScript`
 
-## Connect With Me
+🔗 **Repository:** Coming Soon  
+🌐 **Live Demo:** Coming Soon
 
-- GitHub: [@Harshcodesxd](https://github.com/Harshcodesxd)
+---
 
+### 🌐 Personal Portfolio
+
+A personal portfolio website to showcase my projects, skills, and development journey.
+
+**Focus:**
+- Responsive design
+- Modern UI
+- Smooth animations
+- Project showcase
+- Performance
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** Coming Soon  
+🌐 **Live Demo:** Coming Soon
+
+---
+
+### 🤖 AI Explainer
+
+An experimental project focused on making difficult topics easier to understand using AI.
+
+**Planned features:**
+- Simple explanations
+- Interactive learning
+- Topic-based assistance
+- Beginner-friendly responses
+
+**Planned Tech:** `React` `Node.js` `Python` `AI`
+
+🚧 **Currently in development**
+
+---
+
+## 📚 Learning Roadmap
+
+```text
+HTML + CSS
+     ↓
+JavaScript
+     ↓
+React
+     ↓
+Node.js + Express
+     ↓
+Databases
+     ↓
+Full-Stack Development
+     ↓
+Python
+     ↓
+AI / ML
