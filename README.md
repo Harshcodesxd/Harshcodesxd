@@ -76,7 +76,7 @@ A personal portfolio website to showcase my projects, skills, and development jo
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:** TailwindPortfolio
+🔗 **Repository:** Coming Soon
 🌐 **Live Demo:** Coming Soon
 
 ---
