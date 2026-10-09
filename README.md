@@ -12,7 +12,7 @@ I'm a student learning full-stack web development and exploring AI automation. I
 | Project | What it does | Links |
 | --- | --- | --- |
 | **PS5 Controller Showcase** | A PlayStation controller product-page concept with a visual theme. Built with HTML, CSS, and JavaScript; currently a work in progress. | [Live demo](https://ps5-controller-landing-page.vercel.app/)  [Source](https://github.com/Harshcodesxd/ps5-controller-landing-page-Demo-) |
-| **NexusCo Streetwear** | A multi-page storefront concept with product listings, product details, brand information, and a contact page. | [Live demo](https://nexusco-html-css.vercel.app/) · [Source](https://github.com/Harshcodesxd/NexusCo-Streetwear) |
+| **NexusCo Streetwear** | A multi-page storefront concept with product listings, product details, brand information, and a contact page. | [Live demo](https://nexusco-html-css.vercel.app/)  [Source](https://github.com/Harshcodesxd/NexusCo-Streetwear) |
 | **Portfolio with Tailwind** | A portfolio site with light and dark mode support and animated UI. | [Live site](https://harshit-thakral.vercel.app/)  [Source](https://github.com/Harshcodesxd/portfolio-tailwind) |
 | **Background Remover** | A browser tool where you can choose an image and remove its background. | [Live demo](https://bg-remover.vercel.app/)  [Source](https://github.com/Harshcodesxd/bg-remover) |
 | **Game-Verse** | A browser-based collection of games. | [Source](https://github.com/Harshcodesxd/Game-Verse) |
