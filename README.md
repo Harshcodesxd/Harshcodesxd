@@ -1,117 +1,35 @@
-<h1 align="center">Hi 👋, I'm Harshit Thakral</h1>
-<h3 align="center">💻 Full-Stack Developer in Progress · 🤖 AI Enthusiast · 🚀 Builder</h3>
-I'm a student passionate about Web Development, AI, and building useful products**.
+# Hi, I'm Harshit 👋
 
-I'm currently learning full-stack development and improving my skills by turning ideas into real projects.
+I'm a student learning full-stack web development and exploring AI automation. I learn by building practical, interactive projects and improving them as I go.
 
-> **Learn → Build → Break → Fix → Repeat.**
+- 🌱 Currently learning: JavaScript, React, Node.js, and databases
+- 🤖 Exploring: AI tools, Python, and automation
+- 🎮 Interested in: web experiences, gaming, and useful tools
+- 📍 India
 
----
+## Featured Projects
 
-## 🚀 About Me
+| Project | What it does | Links |
+| --- | --- | --- |
+| **PS5 Controller Showcase** | A PlayStation controller product-page concept with a visual theme. Built with HTML, CSS, and JavaScript; currently a work in progress. | [Live demo](https://ps5-controller-landing-page.vercel.app/) · [Source](https://github.com/Harshcodesxd/ps5-controller-landing-page-Demo-) |
+| **NexusCo Streetwear** | A multi-page storefront concept with product listings, product details, brand information, and a contact page. | [Live demo](https://nexusco-html-css.vercel.app/) · [Source](https://github.com/Harshcodesxd/NexusCo-Streetwear) |
+| **Portfolio with Tailwind** | A portfolio site with light and dark mode support and animated UI. | [Live site](https://harshit-thakral.vercel.app/) · [Source](https://github.com/Harshcodesxd/portfolio-tailwind) |
+| **Background Remover** | A browser tool where you can choose an image and remove its background. | [Live demo](https://bg-remover.vercel.app/) · [Source](https://github.com/Harshcodesxd/bg-remover) |
+| **Game-Verse** | A browser-based collection of games. | [Source](https://github.com/Harshcodesxd/Game-Verse) |
+| **eDPI Calculator** | A small calculator for FPS gaming sensitivity. | [Source](https://github.com/Harshcodesxd/edpi-calculator-vlr) |
 
-- 🌱 Currently learning **Full-Stack Web Development**
-- ⚡ Focused on **JavaScript, React, Node.js & Databases**
-- 🤖 Exploring **AI, Python & local AI**
-- 🛠️ Learning by building real-world projects
-- 🎯 Working toward becoming a strong **Full-Stack Developer**
-- 💡 Interested in building useful products from scratch
+## Tools & Technologies
 
----
+**Building with:** HTML · CSS · JavaScript  
+**Learning:** React · Node.js · databases · Tailwind CSS  
+**Exploring:** Python · AI automation · Next.js
 
-## 🧠 Tech Stack
+## Find me
 
-### Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
-</p>
-
-### Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nextjs,tailwind" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,npm,vercel" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/Harshit-thakral/)
+- [GitHub repositories](https://github.com/Harshcodesxd?tab=repositories)
 
 ---
 
-## 🚀 Featured Projects
+*I’m learning by building, sharing what I make, and iterating on feedback.*
 
-> I'm currently building my project portfolio. More projects will be added here as I complete them.
-
-### 🧮 Maths Quiz Generator
-
-An interactive web application designed to help students practice mathematics through generated quizzes.
-
-**Focus:**
-- Question generation
-- Difficulty levels
-- Score tracking
-- Responsive UI
-- Simple and clean user experience
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** Coming Soon  
-🌐 **Live Demo:** Coming Soon
-
----
-
-### 🌐 Personal Portfolio
-
-A personal portfolio website to showcase my projects, skills, and development journey.
-
-**Focus:**
-- Responsive design
-- Modern UI
-- Smooth animations
-- Project showcase
-- Performance
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** Coming Soon
-🌐 **Live Demo:** Coming Soon
-
----
-
-### 🤖 AI Explainer
-
-An experimental project focused on making difficult topics easier to understand using AI.
-
-**Planned features:**
-- Simple explanations
-- Interactive learning
-- Topic-based assistance
-- Beginner-friendly responses
-
-**Planned Tech:** `React` `Node.js` `Python` `AI`
-
-🚧 **Currently in development**
-
----
-
-## 📚 Learning Roadmap
-
-```text
-HTML + CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-Node.js + Express
-     ↓
-Databases
-     ↓
-Full-Stack Development
-     ↓
-Python
-     ↓
-AI / ML
