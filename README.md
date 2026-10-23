@@ -28,7 +28,7 @@ I'm a student learning full-stack web development and exploring AI automation. I
 - [LinkedIn](https://www.linkedin.com/in/Harshit-thakral/)
 - [GitHub repositories](https://github.com/Harshcodesxd?tab=repositories)
 
----
+----
 
 *I’m learning by building, sharing what I make, and iterating on feedback.*
 
